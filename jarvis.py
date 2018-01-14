@@ -10,15 +10,14 @@ import json
 import urllib
 import requests
 import sqlite3
-import sklearn # you can import other sklearn stuff too!
-# FILL IN ANY OTHER SKLEARN IMPORTS ONLY
+import sklearn
 from sklearn.pipeline import Pipeline
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.feature_extraction.text import TfidfTransformer
 from sklearn.externals import joblib
 
-import botsettings # local .py, do not share!!
+import botsettings
 TOKEN = botsettings.API_TOKEN
 DEBUG = False
 punctuation = set([',','.','?','!', ':'])
