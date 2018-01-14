@@ -1,0 +1,50 @@
+what time is it, TIME
+do you happen to know the time, TIME
+check your watch, TIME
+is it noon yet, TIME
+is it twelve o'clock, TIME
+you have any way to know time, TIME
+let me know time please, TIME
+are you going out tonight, TIME
+how long will you take, TIME
+i want to know the time, TIME
+I need order pizza, PIZZA
+where is pizzahub, PIZZA
+best pizza place around me, PIZZA
+what flavors of PIZZA, PIZZA
+pizza makes me fun, PIZZA
+order me a pizza jarvis, PIZZA
+send pizza to jane, PIZZA
+what toppings do you want, PIZZA
+I love pizza, PIZZA
+would you wanna some pizza, PIZZA
+how are you doing, GREET
+hey how have you been, GREET
+what's up bro, GREET
+how long have you been there, GREET
+long time no see, GREET
+How are you, GREET
+I am doing very well, GREET
+how do you do, GREET
+greetings from user, GREET
+whats shaking, GREET
+is it cold outside, WEATHER
+I feel cold today, WEATHER
+do you feel cold, WEATHER
+I love good weather, WEATHER
+what is tomorrows temperature, WEATHER
+do you knwo the weather, WEATHER
+I want forecast report, WEATHER
+what does the weather look like, WEATHER
+I hate raining, WEATHER
+do you love sunshine, WEATHER
+tell me a joke, JOKE
+I want you to tell a joke, JOKE
+hi jarvis get us some fun, JOKE
+tell me a story, JOKE
+funny, JOKE
+can you make me smile, JOKE
+I need some good stories, JOKE
+lol, JOKE
+I hate being joked, JOKE
+do you understand a joke, JOKE
